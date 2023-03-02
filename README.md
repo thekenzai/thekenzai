@@ -1,3 +1,4 @@
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thekenzai&label=Profile%20views&color=553a99&style=flat" alt="thekenzai" /> </p>
 <div align="center"> <img src="https://wakatime.com/badge/user/a8f7dcc4-3a3e-4b0f-ae37-7339db2a7b46.svg" /> </div>
 <br>
@@ -46,7 +47,3 @@
 </p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=thekenzai&theme=algolia" alt="thekenzai" /></p>
-
-<p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
