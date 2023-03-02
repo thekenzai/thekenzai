@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I'm KeNZai</h1>
-<h3 align="center">I am a vulnerability researcher.</h3>
+<h3 align="center">I'm  cyber security researcher.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thekenzai&label=Profile%20views&color=553a99&style=flat" alt="thekenzai" /> </p>
 <div align="center"> <img src="https://wakatime.com/badge/user/a8f7dcc4-3a3e-4b0f-ae37-7339db2a7b46.svg" /> </div>
