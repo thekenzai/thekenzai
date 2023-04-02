@@ -3,7 +3,6 @@
 <div align="center"> <img src="https://wakatime.com/badge/user/a8f7dcc4-3a3e-4b0f-ae37-7339db2a7b46.svg" /> </div>
 <br>
 <p align="center">
-- 📫 How to reach me **kenzai@outlook.com.tr**
   <img src="https://tryhackme-badges.s3.amazonaws.com/Kenzai.png" alt="TryHackMe">
 </p>
 <h3 align="center">Connect with me:</h3>
